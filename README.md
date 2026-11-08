@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋, I'm Maria Tsarouchi
 
-<!--
-**mariatsarouche/mariatsarouche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Final-year Informatics & Telematics Student | Software Development & Cloud Infrastructure
 
-Here are some ideas to get you started:
+I'm currently developing an inventory management system for my thesis using Django REST Framework and React. I'm also participating in Kiroween, exploring AI-assisted development with Kiro. Alongside my projects, I'm continuously expanding my knowledge of software development, cloud technologies and infrastructure automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Fun fact:** 🐳 I learned the hard way why you should never casually run `docker compose down -v`. Thankfully, I had backups! Now I'm a strong believer in checking commands before executing them.
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariatsarouche/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsarouchemaria@gmail.com)
+
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=react,postgres,js,java,django,nodejs,docker,ansible,python)](https://skillicons.dev)
+
